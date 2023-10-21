@@ -1,0 +1,10 @@
+
+jpython:S1192"RDefine a constant instead of duplicating this literal 'myapp/signin.html' 4 times.(±Ì®¯
+kpython:S1192""SDefine a constant instead of duplicating this literal 'myapp/findbus.html' 6 times.(„¦ä€
+ppython:S6556"SUse an explicit context instead of passing "locals()" to this Django "render" call.(Êà„Æÿÿÿÿÿ
+kpython:S6556C"SUse an explicit context instead of passing "locals()" to this Django "render" call.(¿»¶
+6python:S125Q"Remove this commented out code.(˜¥¤¯
+6python:S125X"Remove this commented out code.(Êûşà
+kpython:S6556i"SUse an explicit context instead of passing "locals()" to this Django "render" call.(º¿£‰
+<python:S125ˆ"Remove this commented out code.(ï¯ïáùÿÿÿÿ
+<python:S125Œ"Remove this commented out code.(‡ÀôÓşÿÿÿÿ
